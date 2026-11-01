@@ -1,0 +1,7 @@
+Django==6.0.6
+gunicorn==23.0.0
+psycopg[binary]>=3.2,<4
+whitenoise>=6.8
+reportlab
+arabic-reshaper==3.0.1
+python-bidi
